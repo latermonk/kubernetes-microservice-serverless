@@ -1,7 +1,7 @@
 # kubernetes-microservice-serverless
 
 
-##  microservice:
+##  Service-mesh /  microservice:
 
 https://istio.io/   
 
@@ -11,6 +11,11 @@ https://istio.io/docs/
 
 ###  ZH-DOC   
 http://istio.doczh.cn/    
+
+
+https://rootsongjc.gitbooks.io/kubernetes-handbook/content/usecases/service-mesh.html      
+
+
 
 
 
