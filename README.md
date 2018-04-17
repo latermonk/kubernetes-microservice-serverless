@@ -18,6 +18,8 @@ https://rootsongjc.gitbooks.io/kubernetes-handbook/content/usecases/service-mesh
 
 
 
+###  Guide:     
+https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes     
 
 
 ##  serverless:
